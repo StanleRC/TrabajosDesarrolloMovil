@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Messages4D</string>
+    <string name="str_cerrar">Closer</string>
+    <string name="str_aceptar">Acept</string>
+    <string name="str_cancelar">Cancel</string>
+    <string name="str_titulo_alert">Alert title</string>
+</resources>
